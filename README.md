@@ -1,6 +1,6 @@
 # geowe-locale
-EN
+##EN
 Help us translate geowe!
 
-ES
+##ES
 ¡Ayúdanos  a traducir GeoWE!
